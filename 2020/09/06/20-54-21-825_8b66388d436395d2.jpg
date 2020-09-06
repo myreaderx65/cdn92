@@ -1,0 +1,541 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <link rel="shortcut icon" href="https://www.bruceclay.com/wp-content/themes/bruceclay/favicon.ico" />
+    	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#0f72ba" />
+
+	
+	<script>function fvmuag(){if(navigator.userAgent.match(/x11.*fox\/54|oid\s4.*xus.*ome\/62|oobot|ighth|tmetr|eadles|ingdo/i))return!1;if(navigator.userAgent.match(/x11.*ome\/75\.0\.3770\.100/i)){var e=screen.width,t=screen.height;if("number"==typeof e&&"number"==typeof t&&862==t&&1367==e)return!1}return!0}</script>
+<!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Blog - Bruce Clay, Inc.</title>
+<meta name="description" content="Read the Bruce Clay Blog for search marketing news, analysis, and how-to articles about SEO, PPC, content and social media. Sign up for email updates, too!"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.bruceclay.com/blog/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Blog - Bruce Clay, Inc." />
+<meta property="og:description" content="Read the Bruce Clay Blog for search marketing news, analysis, and how-to articles about SEO, PPC, content and social media. Sign up for email updates, too!" />
+<meta property="og:url" content="https://www.bruceclay.com/blog/" />
+<meta property="og:site_name" content="Bruce Clay, Inc." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Read the Bruce Clay Blog for search marketing news, analysis, and how-to articles about SEO, PPC, content and social media. Sign up for email updates, too!" />
+<meta name="twitter:title" content="Blog - Bruce Clay, Inc." />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bruceclay.com/#website","url":"https://www.bruceclay.com/","name":"Bruce Clay, Inc.","inLanguage":"en-US","description":"SEO and Internet Marketing","potentialAction":{"@type":"SearchAction","target":"https://www.bruceclay.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.bruceclay.com/blog/#webpage","url":"https://www.bruceclay.com/blog/","name":"Blog - Bruce Clay, Inc.","isPartOf":{"@id":"https://www.bruceclay.com/#website"},"inLanguage":"en-US","datePublished":"2019-02-19T05:31:01+00:00","dateModified":"2019-06-25T20:16:00+00:00","description":"Read the Bruce Clay Blog for search marketing news, analysis, and how-to articles about SEO, PPC, content and social media. Sign up for email updates, too!"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css" media="all">@font-face{font-family:'Saira Extra Condensed';font-display:block;font-style:normal;font-weight:100;font-display:swap;src:local('Saira ExtraCondensed Thin'),local('SairaExtraCondensed-Thin'),url(https://fonts.gstatic.com/s/sairaextracondensed/v5/-nFsOHYr-vcC7h8MklGBkrvmUG9rbpkisrTri3j2_Ck.woff) format('woff')}@font-face{font-family:'Saira Extra Condensed';font-display:block;font-style:normal;font-weight:400;font-display:swap;src:local('Saira ExtraCondensed Regular'),local('SairaExtraCondensed-Regular'),url(https://fonts.gstatic.com/s/sairaextracondensed/v5/-nFiOHYr-vcC7h8MklGBkrvmUG9rbpkisrTj6Ejy.woff) format('woff')}@font-face{font-family:'Saira Extra Condensed';font-display:block;font-style:normal;font-weight:700;font-display:swap;src:local('Saira ExtraCondensed Bold'),local('SairaExtraCondensed-Bold'),url(https://fonts.gstatic.com/s/sairaextracondensed/v5/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wpn.woff) format('woff')}@font-face{font-family:'Saira Extra Condensed';font-display:block;font-style:normal;font-weight:800;font-display:swap;src:local('Saira ExtraCondensed ExtraBold'),local('SairaExtraCondensed-ExtraBold'),url(https://fonts.gstatic.com/s/sairaextracondensed/v5/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrT27h2wpn.woff) format('woff')}</style>
+<style type="text/css" media="all">@font-face{font-family:'Nunito';font-display:block;font-style:normal;font-weight:400;font-display:swap;src:local('Nunito Regular'),local('Nunito-Regular'),url(https://fonts.gstatic.com/s/nunito/v13/XRXV3I6Li01BKofINeaH.woff) format('woff')}@font-face{font-family:'Nunito';font-display:block;font-style:normal;font-weight:700;font-display:swap;src:local('Nunito Bold'),local('Nunito-Bold'),url(https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAjsOUYevO.woff) format('woff')}</style>
+<link rel='stylesheet' id='fvm-header-0-css'  href='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/header-12be38126937b15427540bff4d5fee96a4f3d311.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css'  href='https://www.bruceclay.com/wp-content/themes/bruceclay/assets/css/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='fvm-header-2-css'  href='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/header-e8aa2094d26a8adb3490f7e27de80ede970fb303.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bruceclay.com/wp-includes/js/jquery/jquery.js'></script><script defer type='text/javascript' src='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/header-699a0bdcda746cca8bfb258b13cd76e08b44b7d7.min.js'></script><link rel='https://api.w.org/' href='https://www.bruceclay.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bruceclay.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bruceclay.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.bruceclay.com/?p=55887' />
+<link rel="alternate" type="application/json+oembed" href="https://www.bruceclay.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bruceclay.com%2Fblog%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.bruceclay.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bruceclay.com%2Fblog%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.22.6-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<link rel="alternate" hreflang="en-IN" href="https://www.bruceclay.com/in/blog/" /><link rel="alternate" hreflang="en-AU" href="https://www.bruceclay.com/au/blog/" /><link rel="alternate" hreflang="en-NZ" href="https://www.bruceclay.com/au/blog/" /><link rel="alternate" hreflang="en-JP" href="https://www.bruceclay.com/jp/blog/" /><link rel="alternate" hreflang="en-CH" href="https://www.bruceclay.com/eu/blog/" /><link rel="alternate" hreflang="en-IT" href="https://www.bruceclay.com/eu/blog/" /><link rel="alternate" hreflang="x-default" href="https://www.bruceclay.com/blog/" /><script type="text/javascript">var exclude_geolocation_redirect = null;</script>    
+    <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PR5FFML');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body class="page-template page-template-template-blog page-template-template-blog-php page page-id-55887 overflow-x-hidden bruceclay">    
+    <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PR5FFML"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->    
+  	<div class="header-container">
+		<header>
+			<div class="container">                
+                <!--
+Array
+(
+    [site_id] => 1
+    [logo_file] => https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/logo.svg
+    [logo_alt] => Bruce Clay
+    [home_path] => https://www.bruceclay.com/
+    [phonenumber] => +18665171900
+    [form_shortcode] => [contact-form-7 id="63329" title="Quote Form"]
+)
+-->
+                <a href="https://www.bruceclay.com/" class="brand">
+                    <img src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/logo.svg" alt="Bruce Clay">
+                </a>
+				<div class="menu-toggle">
+					<div class="bar"></div>
+					<div class="bar"></div>
+					<div class="bar"></div>
+				</div>
+				<nav>
+                    <ul id="menu-header-menu" class="nav navbar-nav"><li id="menu-item-62516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62516"><a href="#">WHAT WE DO</a>
+<ul class="sub-menu">
+	<li id="menu-item-62517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62517"><a href="https://www.bruceclay.com/seo/">SEO SERVICES</a></li>
+	<li id="menu-item-62521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62521"><a href="https://www.bruceclay.com/seo/training/">SEO TRAINING</a></li>
+	<li id="menu-item-69044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69044"><a href="https://www.bruceclay.com/seo/search-engine-optimization/">SEO GUIDE</a></li>
+	<li id="menu-item-63565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63565"><a href="https://www.bruceclay.com/seo/tools/">SEO TOOLS</a></li>
+	<li id="menu-item-62518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62518"><a href="https://www.bruceclay.com/ppc/">SEM/PPC</a></li>
+	<li id="menu-item-62519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62519"><a href="https://www.bruceclay.com/content/">CONTENT</a></li>
+	<li id="menu-item-62520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62520"><a href="https://www.bruceclay.com/smm/">SOCIAL MEDIA</a></li>
+</ul>
+</li>
+<li id="menu-item-55906" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-55887 current_page_item menu-item-55906"><a href="https://www.bruceclay.com/blog/" aria-current="page">BLOG</a></li>
+<li id="menu-item-62522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62522"><a href="https://www.bruceclay.com/about/">ABOUT</a></li>
+<li id="menu-item-62112" class="locale-switcher menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62112"><a href="#">USA</a>
+<ul class="sub-menu">
+	<li id="menu-item-62113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62113"><a href="#">USA</a></li>
+	<li id="menu-item-62115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62115"><a href="#">JPN</a></li>
+	<li id="menu-item-62116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62116"><a href="#">AUS</a></li>
+	<li id="menu-item-62117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62117"><a href="#">IND</a></li>
+	<li id="menu-item-63117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63117"><a href="#">UAE</a></li>
+	<li id="menu-item-62114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62114"><a href="#">CHE</a></li>
+</ul>
+</li>
+<li id="menu-item-55911" class="blue float-right menu-item menu-item-type-custom menu-item-object-custom menu-item-55911"><a href="#footer-section">CONTACT US</a></li>
+<li id="menu-item-55905" class="call menu-item menu-item-type-custom menu-item-object-custom menu-item-55905"><a href="tel:+18665171900">CALL US (866) 517-1900</a></li>
+<li class="search-glass-fix astm-search-menu is-menu dropdown"><a title="" href="#"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5" focusable="false" aria-label="Search">
+						<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form role="search" method="get" class="search-form" action="https://www.bruceclay.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></li></ul>				</nav>
+			</div>
+		</header>
+	</div>
+
+<div class="background-layers">
+	<div class="layer-right layer-6" data-parallax="scroll" data-depth="0.4"></div>
+	<div class="layer-right layer-7" data-parallax="scroll" data-depth="0.4"></div>
+</div>
+<section class="breadcrumb">
+	<div class="container">
+		<!-- Breadcrumb NavXT 6.4.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Bruce Clay, Inc.." href="https://www.bruceclay.com" class="home"><span property="name">Search Marketing</span></a><meta property="position" content="1"></span> &gt; <span class="post post-page current-item">Blog</span>	</div>
+</section>
+<section class="page-content">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-7">
+              <h1>ALL THE NEWS THAT&#39;S FIT TO BLOG</h1>
+							<div class="row articles">
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/how-to-get-rid-of-duplicate-content-wordpress/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Duplicate content example with two lattes." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Duplicate content example with two lattes." srcset="https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/09/duplicate-lattes-example-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>How to Get Rid of Duplicate Content in WordPress</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on September 1, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/what-are-meta-tags/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px.png" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Meta tags in Google search results example." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px.png 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px-300x158.png 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px-768x403.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Meta tags in Google search results example." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px.png 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px-300x158.png 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/bruce-clay-meta-tags-800px-768x403.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>What Are Meta Tags? Why Are They Important to SEO? How Do You Create Them?</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 27, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/what-is-seo-siloing/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Organized foods to illustrate siloing." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Organized foods to illustrate siloing." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/silo-organized-foods-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>SEO Siloing: What, Why, How</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 25, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/what-is-ppc-audit/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="PPC audit analysis charts." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="PPC audit analysis charts." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/ppc-audit-analysis-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									PAID SEARCH/ONLINE ADS								</div>
+								<h3>What Is a PPC Audit? Why Are PPC Audits Important? And How Do You Do a PPC Audit?</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 17, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/wordpress-seo-plugin-keyword-optimization/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Optimizing keywords on a laptop computer." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Optimizing keywords on a laptop computer." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/optimizing-keywords-on-laptop-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>How a WordPress SEO Plugin Can Help You Optimize Your Content with Keywords</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 12, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/seo-what-we-believe/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Weights like measuring an SEO agency." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Weights like measuring an SEO agency." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/weights-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>SEO: What We Believe</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 10, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/wp-seo-plugins-realtime-customized-data-matters/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Customized data example." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Customized data example." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/pulse-data-chart-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>WordPress SEO Plugins: Why Real-Time and Customized Data Matters</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 5, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/times-when-siloing-can-make-or-break-your-rankings/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Items that need to be better organized." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Items that need to be better organized." srcset="https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/08/clutter-needs-siloing-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>5 Times When SEO Siloing Can Make or Break Your Search Engine Rankings</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on August 4, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/tipping-point-for-digital-marketing/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Caterpillar like digital marketing industry." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Caterpillar like digital marketing industry." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/caterpillar-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									DIGITAL MARKETING OPTIMIZATION								</div>
+								<h3>A Tipping Point for the Digital Marketing Industry: From Caterpillar to Butterfly</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 29, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/real-cost-seo-pricing-services-guide/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Signing a contract for SEO services." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Signing a contract for SEO services." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/signing-contract-for-seo-services-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>The REAL Cost of SEO: A Practical Guide to SEO Pricing and Services</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 27, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/seo-plan-for-beginners-that-gets-results/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Person with a plan beginning to climb." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Person with a plan beginning to climb." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/Climber-starting-project-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>A 16-Step SEO Plan for Beginners That Gets Results</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 20, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/seo-myth-seo-is-one-time-or-sometime-thing/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="House that needs long-term strategy to maintain." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="House that needs long-term strategy to maintain." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/house-long-term-investment-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3><em>Myth-busting SEO for the CMO:</em> Myth No. 3 – SEO Is a One-Time or Sometime Initiative</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 16, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/seo-myth-you-cant-measure-seo/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Graphs to measure SEO." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Graphs to measure SEO." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/seo-measurement-graphs-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3><em>Myth-busting SEO for the CMO:</em> Myth No. 2 – You Can’t Measure SEO</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 14, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/customized-seo-advice-per-keyword-plugin/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Woman smiling at plugin feature." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Woman smiling at plugin feature." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/smiling-woman-with-laptop-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>Want Customized SEO Advice per Keyword? There’s a Plugin for That!</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 8, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/seo-myth-seo-is-unreliable/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Man with a headache." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Man with a headache." srcset="https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/07/man-frustrated-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3><em>Myth-busting SEO for the CMO:</em> Myth No. 1 &#8211; SEO Is Too Unreliable</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on July 6, 2020</div>
+							</a>
+						</div>
+											<div class="col-md-6 article">
+							<a href="https://www.bruceclay.com/blog/paid-guest-posts-more-proof-bad-for-business/">
+								<img width="800" height="420" src="//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Woman frustrated looking at computer." srcset="" data-srcset="https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Woman frustrated looking at computer." srcset="https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px.jpg 800w, https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px-300x158.jpg 300w, https://www.bruceclay.com/wp-content/uploads/2020/06/woman-frustrated-800px-768x403.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>								<div class="category">
+									SEO								</div>
+								<h3>Paid Guest Posting: More Proof That It’s Bad for Business</h3>
+								<div class="date">Posted by <strong>Bruce Clay</strong> on June 30, 2020</div>
+							</a>
+						</div>
+										<div class="clear"></div>
+				</div>
+                <div class="navigation pagination" role="navigation">
+                  <a href="https://www.bruceclay.com/blog/page/2/" class="next page-numbers">OLDER</a>                </div>
+						</div>
+			<div class="col-md-5">
+                <div>
+                    <img class="corner-pic"
+                         alt
+                         src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/newsie.png" />
+                </div>
+                <div style="padding-left: 45px" class="registration-form ctct-embed-signup">
+                    <div class="title">BE A BLOG SUBSCRIBER</div>
+                    <div>Join 20,000+ marketers who get the Bruce Clay blog delivered straight to their inbox</div>
+                    
+					<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+					<script>
+						hbspt.forms.create({
+							portalId: 4240043,
+							formId: "bb898571-6af6-4ac7-ba2a-5a66ded47c4e",
+							shortcode: "wp",
+							
+						});
+					</script>
+				                    </form>
+                </div>
+                <div style="margin-top: 40px;" class="sidebar sticky">
+                    <div class="categories widget">
+                        <h3>BLOG CATEGORIES</h3>
+                        <ul>
+                          <li><a href="/blog/category/analytics/">Analytics</a></li>
+                          <li><a href="/blog/category/cro/">Conversion Rate Optimization</a></li>
+                          <li><a href="/blog/category/internet-marketing-optimization/">Digital Marketing Optimization</a></li>
+                          <li><a href="/blog/category/paid-search/">Paid Search/Online Ads</a></li>
+                          <li><a href="/blog/category/search-engine-optimization/">SEO</a></li>
+                          <li><a href="/blog/category/content/">SEO Content</a></li>
+                          <li><a href="/blog/category/social-media/">Social Media Marketing</a></li>
+                          <li><a href="/blog/category/design/">Web Design</a></li>
+                        </ul>
+                    </div>
+                                   </div>
+	     </div>
+           </div>
+	</div>
+</section>
+
+	<section class="bottom">
+		<div class="container">
+			<div class="books">
+				<img data-src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/books.png" alt="">
+			</div>
+			<div class="loupe">
+				<img data-src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/loupe.png" alt="">
+			</div>
+			<div class="face">
+				<img data-src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/face.png" alt="">
+			</div>
+			<nav>
+				<ul id="menu-bottom-menu" class=""><li id="menu-item-62523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62523"><a href="https://www.bruceclay.com/seo/search-engine-optimization/">Search Engine Optimization Guide</a></li>
+<li id="menu-item-62524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62524"><a href="https://www.bruceclay.com/ppc/pay-per-click/">PPC Guide</a></li>
+<li id="menu-item-62525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62525"><a href="https://www.bruceclay.com/smm/social-media-marketing/">Paid Social Guide</a></li>
+<li id="menu-item-62526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62526"><a href="https://www.bruceclay.com/seo/free-executive-seo-guide/">Free Executives Guide for SEO</a></li>
+<li id="menu-item-63321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63321"><a href="https://www.bruceclay.com/seo/seofordummies/">SEO for Dummies</a></li>
+<li id="menu-item-63322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63322"><a href="https://www.bruceclay.com/content/content-marketing-book/">Content Marketing Guide</a></li>
+<li id="menu-item-82890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82890"><a href="https://www.bruceclay.com/seo/">SEO Agency</a></li>
+<li id="menu-item-82891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82891"><a href="https://www.bruceclay.com/ppc/">PPC Agency</a></li>
+</ul>			</nav>
+			<div class="contacts">
+												<div class="textwidget"><p>Serving North America based in the Los Angeles Metropolitan Area<br />
+Bruce Clay, Inc. | 2245 First St., Suite 101 | Simi Valley, CA 93065<br />
+Voice: 1-805-517-1900 | Toll Free: 1-866-517-1900 | Fax: 1-805-517-1919</p>
+</div>
+									</div>
+		</div>
+	</section>
+	<footer id="footer-section">
+		<div class="container">
+					<a href="https://www.bruceclay.com/" class="brand">
+                
+				<img src="https://www.bruceclay.com/wp-content/themes/bruceclay/assets/images/logo.svg" alt="Bruce Clay">			
+            </a>
+			<nav class="vertical">
+				<ul id="menu-footer-menu-1" class=""><li id="menu-item-62527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62527"><a href="https://www.bruceclay.com/seo/">SEO SERVICES</a></li>
+<li id="menu-item-62528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62528"><a href="https://www.bruceclay.com/ppc/">SEM/PPC</a></li>
+<li id="menu-item-62529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62529"><a href="https://www.bruceclay.com/content/">CONTENT</a></li>
+<li id="menu-item-62530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62530"><a href="https://www.bruceclay.com/smm/">SOCIAL MEDIA</a></li>
+<li id="menu-item-62531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62531"><a href="https://www.bruceclay.com/seo/training/">SEO TRAINING</a></li>
+<li id="menu-item-62532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62532"><a href="https://www.bruceclay.com/seo/search-engine-optimization/">SEO GUIDE</a></li>
+<li id="menu-item-62533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62533"><a href="https://www.bruceclay.com/seo/tools/">SEO TOOLS</a></li>
+<li id="menu-item-62534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62534"><a href="https://www.bruceclay.com/seo/technical-seo-tips/">TECHNICAL SEO</a></li>
+</ul>			</nav>
+			<div class="clear"></div>
+			<div class="form-popup">
+				<h2>CONTACT FORM</h2>
+				<div class="close">×</div>
+				<div role="form" class="wpcf7" id="wpcf7-f63329-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="/blog/#wpcf7-f63329-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="63329" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f63329-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="input-wrap">
+            <span class="wpcf7-form-control-wrap contactfirst"><input type="text"  aria-label="first name" name="contactfirst" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" /></span>            </p>
+<div class="focus-input"></div>
+</p></div>
+<div class="input-wrap">
+            <span class="wpcf7-form-control-wrap phonenumber"><input type="text"  aria-label="phone number" name="phonenumber" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number" /></span></p>
+<div class="focus-input"></div>
+</p></div>
+<div class="input-wrap">
+            <span class="wpcf7-form-control-wrap email"><input type="email"  aria-label="email address" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span>            </p>
+<div class="focus-input"></div>
+</p></div>
+<div class="input-wrap">
+            <span class="wpcf7-form-control-wrap url"><input type="url"  aria-label="website url" name="url" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-url wpcf7-validates-as-required wpcf7-validates-as-url" aria-required="true" aria-invalid="false" placeholder="Website URL" /></span></p>
+<div class="focus-input"></div>
+</p></div>
+<div class="recaptcha-terms">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</div>
+</p></div>
+<div class="col-md-6">
+<div class="input-wrap">
+          <span class="wpcf7-form-control-wrap descript"><textarea  aria-label="describe your problem" name="descript" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your service needs, questions or comments"></textarea></span></p>
+<div class="focus-input"></div>
+</p></div>
+<div class="loading">
+<div class="wrap">
+<div class="lds-ellipsis">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div></div>
+</p></div>
+<div class="input-wrap submit-wrap">
+<input type="hidden" name="webpage" value="" class="wpcf7-form-control wpcf7-hidden" />
+<input type="hidden"  aria-label="lirst name" name="contactlast" value="" class="wpcf7-form-control wpcf7-hidden" />
+<p>          <input type="submit" value="SUBMIT" class="wpcf7-form-control wpcf7-submit" id="maxs-enquiry" />
+        </p></div>
+</p></div>
+</div>
+<p><script type="text/javascript">
+var wp = document.querySelector("input[name='webpage']");
+wp.value = document.location.toString();
+var wpform = document.querySelector('form[action*="63329"]');
+var contactemail = "";
+wpform.addEventListener( 'submit', function( event ) {
+        var first_name = document.querySelector("input[name='contactfirst']");
+        var last_name = document.querySelector("input[name='contactlast']");
+        last_name.value = "";
+        var name = [];
+        name = first_name.value.split(' ');
+        if (name.length > 1) {
+          first_name.value = name[0];
+          last_name.value = name.slice(1, name.length).join(' ');
+        }        
+        var email_tag = document.querySelector("input[name='email']");
+        contactemail = email_tag.value;
+}, false);
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    if (event.detail.contactFormId == "63329") {        
+        var ehash = encodeURIComponent(btoa(contactemail));
+        var new_url = document.location.protocol + "//" + document.location.hostname + "/thank-you/";
+        if(ehash) {
+            new_url = new_url + '#' + ehash;
+        }
+        location = new_url;
+    }
+}, false );
+</script></p>
+<div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>			</div>
+			<div class="text-center">
+				<button class="contact-us">INQUIRE NOW</button>
+				<a class="call-now" href="tel:+18665171900"></a>
+			</div>
+			<nav class="horizontal">
+				<ul id="menu-footer-menu-2" class=""><li id="menu-item-62535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62535"><a href="https://www.bruceclay.com/about/">About Us</a></li>
+<li id="menu-item-62536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62536"><a href="https://www.bruceclay.com/privacy/">Privacy</a></li>
+<li id="menu-item-62537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62537"><a href="https://www.bruceclay.com/web_ethics/">Ethics</a></li>
+<li id="menu-item-62538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62538"><a href="https://www.bruceclay.com/sitemap/">Sitemap</a></li>
+</ul>			</nav>
+			<div class="copyrights">
+												<div class="textwidget"><p>Copyright © 1996 to 2020 Bruce Clay, Inc. All rights reserved.</p>
+</div>
+									</div>
+		</div>
+	</footer>
+	
+			<div style="z-index: 1000; display: none;" class="gdpr-popup">
+			<div class="container">
+		        <div class="row">
+		            <div class="col-md-9 text-right">
+						<p>We use cookies to offer you a better site experience and to analyze site traffic. Read about how we use cookies in our <a href="https://www.bruceclay.com/privacy/">Privacy Policy</a>. If you continue to use this site, you consent to our use of cookies.</p>		            </div>
+		            <div class="col-md-3">
+					    <button>Got it</button>
+					</div>
+		        </div>
+		    </div>
+		</div>
+		<script type="text/javascript">
+			function setCookie(c_name, value, exdays) {
+			    var exdate = new Date();
+			    exdate.setDate(exdate.getDate() + exdays);
+			    var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+			    document.cookie = c_name + "=" + c_value;
+			}
+			jQuery('.gdpr-popup button').click(function(){
+				setCookie('gdpr-hide', '1', 365);
+				jQuery('.gdpr-popup').fadeOut('fast');
+			});
+		</script>
+		
+	<!-- This site is managed with Bruce Clay SEO. -->
+<link rel='stylesheet' id='fvm-footer-0-css'  href='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/footer-63d4645ca9b3bc7dc17bd6dbf1ab1253928be3af.min.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.bruceclay.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/footer-82b9eecdee2c267021ed1a3665c977ad064d702d.min.js'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"7.22.6"};
+/* ]]> */
+</script>
+<script async defer id="hs-script-loader" type='text/javascript' src='//js.hs-scripts.com/4240043.js?integration=WordPress'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var WORDPRESS = {"siteurl":"https:\/\/www.bruceclay.com","mainurl":"https:\/\/www.bruceclay.com\/","themedir":"https:\/\/www.bruceclay.com\/wp-content\/themes\/bruceclay"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/footer-33d841c600f82d6abfce57d32d1b7454a73fb3fa.min.js'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js'></script><script defer type='text/javascript' src='//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='//www.bruceclay.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js'></script><script defer type='text/javascript' src='https://www.bruceclay.com/wp-content/uploads/cache/fvm/1597795154/out/footer-dcc5723453ddef17f2e069161defd9e4dd650251.min.js'></script><script type="text/javascript">
+window.addEventListener("load", function(event) {
+jQuery(".cfx_form_main,.wpcf7-form,.wpforms-form,.gform_wrapper form").each(function(){
+var form=jQuery(this); 
+var screen_width=""; var screen_height="";
+ if(screen_width == ""){
+ if(screen){
+   screen_width=screen.width;  
+ }else{
+     screen_width=jQuery(window).width();
+ }    }  
+  if(screen_height == ""){
+ if(screen){
+   screen_height=screen.height;  
+ }else{
+     screen_height=jQuery(window).height();
+ }    }
+form.append('<input type="hidden" name="vx_width" value="'+screen_width+'">');
+form.append('<input type="hidden" name="vx_height" value="'+screen_height+'">');
+form.append('<input type="hidden" name="vx_url" value="'+window.location.href+'">');  
+}); 
+
+});
+</script> 
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.306 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-09-05 18:03:04 -->
+
+<!-- super cache -->
