@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"/><meta name="renderer" content="webkit"/><title>登录超时</title><script>if(parent&&parent!==window){if(typeof parent.gotoLoginPage=="function"){parent.gotoLoginPage()}else{parent.location.href="login.html"}}else{location.href="login.html"};</script></head><body><div></body></html>
